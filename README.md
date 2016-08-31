@@ -1,8 +1,3 @@
 # ohif
-OHIFViewer Packages
+Standalone OHIFViewer 
 
-Packages List
-
-https://github.com/lancelotsmith/Viewers/tree/master/Packages
-
-List Of Packages
